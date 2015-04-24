@@ -1,0 +1,5 @@
+Author name: Christopher Le Compte
+Program name: Word Counter
+Description: This program takes a user-inputed word and sentence, and counts the number of times that the word appears in the sentence
+Set-up instructions: Required gems are located in Gemfile
+Copyright and license information...somewhere.
